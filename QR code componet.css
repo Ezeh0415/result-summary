@@ -117,6 +117,9 @@ button{
     padding:5px;
 
 }
+.l{
+    text-align: center;
+}
 /* media querry*/
 @media all and (max-width:767px) {
     .contianer{
